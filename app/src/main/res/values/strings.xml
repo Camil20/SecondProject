@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecondProjectCD</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">PROFILE</string>
+    <string name="tasks">TASKS</string>
+    <string name="forgot">Forgot</string>
+</resources>
